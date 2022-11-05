@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yeasin Arafat
 #### Nice to meet you!
-![Nice to meet you!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Nice to meet you!]
 
 I'm learning codes. Contact me if you'd like to work together on your next project.
 
