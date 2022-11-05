@@ -1,6 +1,5 @@
-### Hi there 👋, I am Yeasin Arafat
+## Hi there 👋, I am Yeasin Arafat
 #### Nice to meet you!
-![Nice to meet you!]
 
 I'm learning codes. Contact me if you'd like to work together on your next project.
 
