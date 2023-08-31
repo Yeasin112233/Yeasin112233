@@ -1,15 +1,11 @@
-# Hi there 👋, I am Yeasin Arafat
+# Hi there 👋
 #### Nice to meet you!
 
-I'm learning codes. Contact me if you'd like to work together on your next project.
 
-Skills: C / C++ / JS / Java /  HTML / CSS
+Skills: Flutter / Dart / Provider / Rest API /  Firebase / Firebase Authentication
 
-- 🔭 I’m currently working on Java. 
-- 🌱 I’m currently learning Competitive programming. 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about C , C++ , Java 
-- 📫 How to reach me: Facebook , Instagram , Email. 
+- 💬 Ask me about Flutter , Dart , Firebase , Google play console 
+- 📫 How to reach me: Linkedin , Indeed , Email. 
 - ⚡ Fun fact: Gamer🎮 
 
 
